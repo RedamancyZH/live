@@ -27786,6 +27786,9 @@
 	<programme channel="咪咕足球" start="20250425111000 +0800" stop="20250425112000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250425112000 +0800" stop="20250425124000 +0800">
+		<title lang="zh">村BA</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -81459,6 +81462,9 @@
 	<programme channel="newtv超级综艺" start="20250425104000 +0800" stop="20250425112200 +0800">
 		<title lang="zh">回声嘹亮</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250425112200 +0800" stop="20250425125200 +0800">
+		<title lang="zh">一馔千年</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -81602,6 +81608,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250425103100 +0800" stop="20250425111700 +0800">
 		<title lang="zh">34_画眉</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250425111700 +0800" stop="20250425123700 +0800">
+		<title lang="zh">拉图红酒推广4001087099</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -81747,6 +81756,9 @@
 	<programme channel="newtv军旅剧场" start="20250425104500 +0800" stop="20250425113100 +0800">
 		<title lang="zh">13_菜刀班尖刀连</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250425113100 +0800" stop="20250425121700 +0800">
+		<title lang="zh">14_菜刀班尖刀连</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -81797,6 +81809,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250425104100 +0800" stop="20250425112500 +0800">
 		<title lang="zh">12_亲爱的爸妈</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250425112500 +0800" stop="20250425121000 +0800">
+		<title lang="zh">13_亲爱的爸妈</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -81944,6 +81959,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250425105100 +0800" stop="20250425111700 +0800">
 		<title lang="zh">玉峰山迷踪</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250425111700 +0800" stop="20250425114400 +0800">
+		<title lang="zh">变身的纸币</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
