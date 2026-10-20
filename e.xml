@@ -17436,6 +17436,18 @@
 	<programme channel="咪咕综合体育" start="20261020154000 +0800" stop="20261020182500 +0800">
 		<title lang="zh">网球世界-2026中国网球公开赛 女单第3轮 布兹科娃-郑钦文</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20261020183500 +0800" stop="20261020184000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20261020184000 +0800" stop="20261020202000 +0800">
+		<title lang="zh">英超赛场-26/27赛季 英超 第7轮 埃弗顿-切尔西</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20261020202500 +0800" stop="20261020220500 +0800">
+		<title lang="zh">足球世界-26/27赛季 西甲 第7轮 马德里竞技-皇家马德里</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20261020221000 +0800" stop="20261020000000 +0800">
+		<title lang="zh">网球世界-2026美国网球公开 女单第2轮 郑钦文-普丁塞娃</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17504,6 +17516,21 @@
 	</programme>
 	<programme channel="咪咕足球" start="20261020165500 +0800" stop="20261020185500 +0800">
 		<title lang="zh">当燃CBA-26/27赛季季前赛 上海久事-辽宁本钢</title>
+	</programme>
+	<programme channel="咪咕足球" start="20261020190000 +0800" stop="20261020213500 +0800">
+		<title lang="zh">当燃CBA-26/27赛季常规赛第2轮 北京首钢-广东东阳光 直播</title>
+	</programme>
+	<programme channel="咪咕足球" start="20261020213500 +0800" stop="20261020215000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20261020215000 +0800" stop="20261020221000 +0800">
+		<title lang="zh">巨星面对面对话罗斯</title>
+	</programme>
+	<programme channel="咪咕足球" start="20261020221000 +0800" stop="20261020221500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20261020221500 +0800" stop="20261020235500 +0800">
+		<title lang="zh">2027男篮世预赛欧洲区第二阶段 西班牙-葡萄牙</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -31948,13 +31975,13 @@
 		<title lang="zh">最新重播高清河南新闻联播</title>
 	</programme>
 	<programme channel="河南新闻" start="20261020073000 +0800" stop="20261020080000 +0800">
-		<title lang="zh">大象会客厅新</title>
+		<title lang="zh">大象会客厅</title>
 	</programme>
 	<programme channel="河南新闻" start="20261020080000 +0800" stop="20261020083000 +0800">
 		<title lang="zh">河南午间报道重播版</title>
 	</programme>
 	<programme channel="河南新闻" start="20261020083000 +0800" stop="20261020090000 +0800">
-		<title lang="zh">大象会客厅新</title>
+		<title lang="zh">大象会客厅</title>
 	</programme>
 	<programme channel="河南新闻" start="20261020090000 +0800" stop="20261020112000 +0800">
 		<title lang="zh">中国共产党河南省第十二次代表大会开幕会直播</title>
@@ -31984,7 +32011,7 @@
 		<title lang="zh">最新重播高清河南新闻联播</title>
 	</programme>
 	<programme channel="河南新闻" start="20261020150000 +0800" stop="20261020153500 +0800">
-		<title lang="zh">大象会客厅新</title>
+		<title lang="zh">大象会客厅</title>
 	</programme>
 	<programme channel="河南新闻" start="20261020153500 +0800" stop="20261020162000 +0800">
 		<title lang="zh">大象谜境剧场酒酿凡尘劫</title>
@@ -32014,7 +32041,7 @@
 		<title lang="zh">美丽河南美好家</title>
 	</programme>
 	<programme channel="河南新闻" start="20261020212000 +0800" stop="20261020214600 +0800">
-		<title lang="zh">大象会客厅新</title>
+		<title lang="zh">大象会客厅</title>
 	</programme>
 	<programme channel="河南新闻" start="20261020214600 +0800" stop="20261020220600 +0800">
 		<title lang="zh">河南体育报道</title>
@@ -57273,6 +57300,15 @@
 	<programme channel="newtv超级综艺" start="20261020175800 +0800" stop="20261020191500 +0800">
 		<title lang="zh">开门大吉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20261020191500 +0800" stop="20261020203200 +0800">
+		<title lang="zh">全民畅舞</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20261020203200 +0800" stop="20261020221900 +0800">
+		<title lang="zh">国家宝藏 第四季</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20261020221900 +0800" stop="20261020234300 +0800">
+		<title lang="zh">国风超有戏b7寻风季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -57324,6 +57360,21 @@
 	<programme channel="newtv超级体育" start="20261020180000 +0800" stop="20261020183000 +0800">
 		<title lang="zh">体育新闻</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20261020183000 +0800" stop="20261020193000 +0800">
+		<title lang="zh">实况录像-WTT中国大满贯2026 比赛1</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20261020193000 +0800" stop="20261020213000 +0800">
+		<title lang="zh">2026/2027赛季中国男子篮球职业联赛-第2轮（北京首钢-广东东阳光）</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20261020213000 +0800" stop="20261020223500 +0800">
+		<title lang="zh">体育世界</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20261020223500 +0800" stop="20261020230500 +0800">
+		<title lang="zh">2026/2027法国足球甲级联赛-第7轮集锦</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20261020230500 +0800" stop="20261020003000 +0800">
+		<title lang="zh">实况录像-2026年亚运会 男排决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -57365,6 +57416,15 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20261020175200 +0800" stop="20261020192000 +0800">
 		<title lang="zh">枪神再起</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20261020192000 +0800" stop="20261020202300 +0800">
+		<title lang="zh">狄仁杰之九层妖楼</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20261020202300 +0800" stop="20261020215000 +0800">
+		<title lang="zh">宗师</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20261020215000 +0800" stop="20261020231500 +0800">
+		<title lang="zh">雷霆缉私</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -57443,6 +57503,24 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20261020181500 +0800" stop="20261020190200 +0800">
 		<title lang="zh">36_主角</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261020190200 +0800" stop="20261020194800 +0800">
+		<title lang="zh">10_爱情有烟火</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261020194800 +0800" stop="20261020203400 +0800">
+		<title lang="zh">11_爱情有烟火</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261020203400 +0800" stop="20261020212000 +0800">
+		<title lang="zh">12_爱情有烟火</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261020212000 +0800" stop="20261020220500 +0800">
+		<title lang="zh">01_征途</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261020220500 +0800" stop="20261020225000 +0800">
+		<title lang="zh">02_征途</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261020225000 +0800" stop="20261020233600 +0800">
+		<title lang="zh">03_征途</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -58076,6 +58154,27 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20261020175700 +0800" stop="20261020183200 +0800">
 		<title lang="zh">TEWYOL远红外前列腺理疗贴-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261020183200 +0800" stop="20261020191200 +0800">
+		<title lang="zh">09_前夜</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261020191200 +0800" stop="20261020195200 +0800">
+		<title lang="zh">礼贡堂五十二味茯湿丸</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261020195200 +0800" stop="20261020203300 +0800">
+		<title lang="zh">10_前夜</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261020203300 +0800" stop="20261020211600 +0800">
+		<title lang="zh">11_前夜</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261020211600 +0800" stop="20261020214600 +0800">
+		<title lang="zh">珍膳私享特膳粉好物推荐第二期</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261020214600 +0800" stop="20261020222900 +0800">
+		<title lang="zh">12_前夜</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261020222900 +0800" stop="20261020231400 +0800">
+		<title lang="zh">博可麦记麦绿素片-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
